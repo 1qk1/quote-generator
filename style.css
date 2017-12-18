@@ -1,0 +1,65 @@
+*{
+  /*border: 1px solid black;*/
+}
+body{
+  margin-top: 6em;
+}
+.jumbotron{
+  max-width: 600px;
+  margin: auto;
+  background-color: white;
+  border-radius: 5px;
+}
+div{
+  padding: 0px 10px;
+  margin: 10px;
+}
+.fa-quote-left{
+  font-size: 2em;
+  margin-right: 12px;
+}
+.button{
+  width: 42px;
+  font-size: 1.4em;
+  padding: 0px auto;
+  color: white;
+}
+.tweetbtn, .tumblrbtn{
+  width: 48px;
+}
+#quotebtn{
+  width: auto;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  float: right;
+}
+h2{
+  display: inline;
+  text-align: center;
+}
+.bottom{
+  margin-top: 36px;
+  color: white;
+}
+.footer {
+  text-align: right;
+}
+.colorchanger{
+  background-color: #ff007e;
+}
+.colorchangerq {
+    color: #ff007e;
+}
+.button:hover{
+  color: white;
+  opacity: 0.5;
+  cursor: pointer;
+
+}
+.button:focus{
+  color: white;
+}
+.footer2{
+  color: white;
+  text-align: center;
+}
