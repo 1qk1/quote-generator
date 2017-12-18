@@ -1,0 +1,3 @@
+1. animated text and quote frame transition
+2. bigger variety of colors
+3. add preview and a readme of the website on github
